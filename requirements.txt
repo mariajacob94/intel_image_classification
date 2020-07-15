@@ -1,6 +1,13 @@
 voila
-fastai2>=0.0.16
 pillow<7
 packaging
 ipywidgets==7.5.1
 sentencepiece==0.1.86
+fastai2>=0.0.11
+graphviz
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+voila
